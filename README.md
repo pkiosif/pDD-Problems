@@ -54,5 +54,6 @@ Next, there are $\frac{F \times (F - 1)}{2}$ lines containing the constraints.
 ## References
 <a name="ref1"></a>
 [1] Martí, R., Martínez-Gavara, A., Pérez-Peló, S., & Sánchez-Oro, J. (2022). A review on discrete diversity and dispersion maximization from an OR perspective. European Journal of Operational Research, 299(3), 795-813. https://doi.org/10.1016/j.ejor.2021.07.044
+<br>
 <a name="ref2"></a>
 [2] Ploskas, N., Stergiou, K., & Tsouros, D. C. (2023). The p-dispersion problem with distance constraints. In 29th International Conference on Principles and Practice of Constraint Programming (CP 2023) (pp. 30-1). Schloss Dagstuhl–Leibniz-Zentrum für Informatik. https://doi.org/10.4230/LIPIcs.CP.2023.30
